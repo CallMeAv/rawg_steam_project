@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rawg_steam_project/static/css/main.08c267fd.css",
+    "main.js": "/rawg_steam_project/static/js/main.1065f742.js",
+    "index.html": "/rawg_steam_project/index.html",
+    "main.08c267fd.css.map": "/rawg_steam_project/static/css/main.08c267fd.css.map",
+    "main.1065f742.js.map": "/rawg_steam_project/static/js/main.1065f742.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08c267fd.css",
+    "static/js/main.1065f742.js"
+  ]
+}
